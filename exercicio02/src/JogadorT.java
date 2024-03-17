@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+// Ignorar este arquivo, usei para testes
 
 public class JogadorT {
     public static String[] lista_nomes;
