@@ -1,0 +1,9 @@
+Centroavante
+Atacante
+Meia-atacante
+Volante
+Lateral direito
+Lateral esquerdo
+Meio-campista
+Zagueiro
+Goleiro
